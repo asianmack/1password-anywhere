@@ -63,16 +63,13 @@ Put the ```manifest.json``` and the ```img``` folder with the images in the 1Pas
 ####5. Tell your Chromebook to use the 1Password Anywhere extension####
 It's important to note that these files need to remain where they are – in the EXTENSIONS folder. The files in your Downloads folder **should not be moved or removed.**
 
-Open your Extensions page, either from the settings or by typing chrome://extensions/ in the address bar. On the Extensions page you need to turn on Developer mode.
-
-Now click the "Load unpacked extension ..." button.
-
-A file browser window will open. Browse to the **Downloads/EXTENSIONS/1Password-Anywhere/ folder and click the Open button.
-
-1Password Anywhere will appear at the top of the list.
+* Open your Extensions page, either from the settings or by typing chrome://extensions/ in the address bar. On the Extensions page you need to turn on Developer mode.
+* Now click the "Load unpacked extension ..." button.
+* A file browser window will open. Browse to the **Downloads/EXTENSIONS/1Password-Anywhere/ folder and click the Open button.
+* 1Password Anywhere will appear at the top of the list.
 
 <img src="http://asianmack.com/github/05-1Password.png" />
 
-It's in the App drawer too. You can now pin 1Password Anywhere to your launcher for easy access.
+Hey look. It's in the App drawer too! You can now pin 1Password Anywhere to your launcher for easy access.
 
 <img src="http://asianmack.com/github/06-1Password.jpg" />

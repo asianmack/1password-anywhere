@@ -65,7 +65,7 @@ It's important to note that these files need to remain where they are – in the
 
 * Open your Extensions page, either from the settings or by typing chrome://extensions/ in the address bar. On the Extensions page you need to turn on Developer mode.
 * Now click the "Load unpacked extension ..." button.
-* A file browser window will open. Browse to the **Downloads/EXTENSIONS/1Password-Anywhere/ folder and click the Open button.
+* A file browser window will open. Browse to the **Downloads/EXTENSIONS/1Password-Anywhere/** folder and click the Open button.
 * 1Password Anywhere will appear at the top of the list.
 
 <img src="http://asianmack.com/github/05-1Password.png" />

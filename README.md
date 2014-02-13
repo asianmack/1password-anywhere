@@ -1,6 +1,8 @@
 1Password Anywhere for Chromebook
 =============
 
+<img src="http://asianmack.com/github/01-1Password.png" alt="1Password Anywhere for Chromebook" />
+
 ##What is it?##
 
 Do you use a Chromebook? Were you saddened to find out that your 1Password Chrome Extension doesn't work on the Chromebook? I was.

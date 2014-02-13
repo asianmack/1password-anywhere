@@ -56,7 +56,7 @@ Open the EXTENSIONS folder, and create another folder inside of it named 1Passwo
 
 <img src="http://asianmack.com/github/03-1Password.jpg" />
 
-Put the ```1Password.html``` and the ```img``` folder in the 1Password-Anywhere folder.
+Put the ```manifest.json``` and the ```img``` folder with the images in the 1Password-Anywhere folder.
 
 <img src="http://asianmack.com/github/04-1Password.jpg" />
 

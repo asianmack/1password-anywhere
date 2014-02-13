@@ -73,3 +73,5 @@ It's important to note that these files need to remain where they are – in the
 Hey look. It's in the App drawer too! You can now pin 1Password Anywhere to your launcher for easy access.
 
 <img src="http://asianmack.com/github/06-1Password.jpg" />
+
+This was inspired by Jerry Hildenbrand's <a href="http://forums.androidcentral.com/chromebooks/296511-how-build-custom-web-app-launcher-chrome-right-your-chromebook-image-heavy.html">[How-To] Build a custom web app (launcher) for Chrome right on your Chromebook</a> post.

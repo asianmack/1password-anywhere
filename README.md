@@ -25,13 +25,13 @@ The important file is ```manifest.json```. This file contains the URL for your 1
 
 ##I mean...how do I make it work on my Chromebook?##
 
-####Step 1####
-Download these repo files to your desktop.
+####1. Download files####
+Save these files to your desktop. You will need to edit 2 lines in the ```manifest.json``` file.
 
-####Step 2####
+####2. Get your 1Password Anywhere URL from Dropbox####
 Browse to your Dropbox account in your web browser, and open the folder called **1Password.agilekeychain**. Click on the file called ```1Password.html```. Note the URL in the browser.
 
-####Step 3####
+####3. Add your URL to manifest.json####
 Open the ```manifest.json``` file in your text editor. Look for the the following block:
 
 ```
@@ -46,3 +46,25 @@ Open the ```manifest.json``` file in your text editor. Look for the the followin
 ```
 
 Replace YOUR-DROPBOX-URL-HERE with the URL from your ```1Password.html``` file that you got from Step 2. The quotation marks are important. Don't remove them. Save the file.
+
+####4. Copy these files to your Chromebook####
+Open the Files app, and browse to the Downloads folder. Inside Downloads, create a folder named EXTENSIONS.
+
+Open the EXTENSIONS folder, and create another folder inside of it named 1Password-Anywhere.
+
+Put the ```1Password.html``` and the ```img``` folder in the 1Password-Anywhere folder.
+
+####5. Tell your Chromebook to use the 1Password Anywhere extension####
+It's important to note that these files need to remain where they are – in the EXTENSIONS folder. They should not be moved or removed.
+
+Open your Extensions page, either from the settings or by typing chrome://extensions/ in the address bar. On the Extensions page you need to turn on Developer mode.
+
+Now click the "Load unpacked extension ..." button.
+
+A file browser window will open. Browse to the **Downloads/EXTENSIONS/1Password-Anywhere/ folder and click the Open button.
+
+1Password Anywhere will appear at the top of the list.
+
+It's also in the App drawer.
+
+You can pin 1Password Anywhere to your launcher for easy access.

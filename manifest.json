@@ -1,0 +1,19 @@
+{
+  "name": "1Password Anywhere",
+  "description": "1Password Anywhere for Chromebook",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "YOUR-DROPBOX-URL-HERE"
+    ],
+    "launch": {
+      "web_url": "YOUR-DROPBOX-URL-HERE"
+    }
+  },
+  "icons": {
+    "16": "img/icon-16.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  }
+}

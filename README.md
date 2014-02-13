@@ -50,9 +50,15 @@ Replace YOUR-DROPBOX-URL-HERE with the URL from your ```1Password.html``` file t
 ####4. Copy these files to your Chromebook####
 Open the Files app, and browse to the Downloads folder. Inside Downloads, create a folder named EXTENSIONS.
 
+<img src="http://asianmack.com/github/02-1Password.jpg" />
+
 Open the EXTENSIONS folder, and create another folder inside of it named 1Password-Anywhere.
 
+<img src="http://asianmack.com/github/03-1Password.jpg" />
+
 Put the ```1Password.html``` and the ```img``` folder in the 1Password-Anywhere folder.
+
+<img src="http://asianmack.com/github/04-1Password.jpg" />
 
 ####5. Tell your Chromebook to use the 1Password Anywhere extension####
 It's important to note that these files need to remain where they are – in the EXTENSIONS folder. They should not be moved or removed.
